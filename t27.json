@@ -1,0 +1,20 @@
+[
+    {
+        "missAver": 0.33333334,
+        "round": 2,
+        "bottom": 3,
+        "outer": 3,
+        "InAver": 0.5,
+        "inner": 3,
+        "miss": 3
+    },
+    {
+        "missAver": 0.33333334,
+        "round": 1,
+        "bottom": 2,
+        "outer": 2,
+        "InAver": 0.5,
+        "inner": 2,
+        "miss": 2
+    }
+]

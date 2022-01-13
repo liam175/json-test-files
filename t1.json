@@ -1,0 +1,29 @@
+[
+    {
+        "missAver": 0.7,
+        "round": 5,
+        "bottom": 7,
+        "outer": 5,
+        "InAver": 0.44444445,
+        "inner": 4,
+        "miss": 21
+    },
+    {
+        "missAver": 0.73333335,
+        "round": 6,
+        "bottom": 5,
+        "outer": 2,
+        "InAver": 0.5,
+        "inner": 2,
+        "miss": 11
+    },
+    {
+        "missAver": 0.5263158,
+        "round": 20,
+        "bottom": 12,
+        "outer": 6,
+        "InAver": 0.33333334,
+        "inner": 3,
+        "miss": 10
+    }
+]
